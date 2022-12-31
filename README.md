@@ -1,1 +1,1 @@
-# www.kikiguiki.com
+# www.kikiriguiki.com
