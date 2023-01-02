@@ -7,6 +7,7 @@ google_analytics: ""
 # UI configs
 title: "Photography - Antonio Suels "
 subtitle: "the world, through my eyes"
+tagline: "perosnal photography blog"
 author: "Antonio Suels"
 header:
  title: "Photography"
@@ -30,3 +31,4 @@ impressum:
 
 plugins:
     - jekyll-seo-tag
+    - jekyll-sitemap

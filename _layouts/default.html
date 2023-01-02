@@ -1,7 +1,10 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    {% include header.html %}
+    	{% include header.html %}
+	{% if jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
 </head>
 <body>
 
