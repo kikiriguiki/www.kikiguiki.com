@@ -28,4 +28,5 @@ impressum:
   phone: phone +49 721 5604631
   source: <a href="https://www.e-recht24.de/impressum-generator.html">https://www.e-recht24.de/impressum-generator.html</a>
 
-
+plugins:
+    - jekyll-seo-tag

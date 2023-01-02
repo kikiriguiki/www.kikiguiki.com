@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 originals/ 
+images/*.jpg
+images/*.JPG
+images/*.jpeg
+images/*.JPEG
