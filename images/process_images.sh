@@ -47,3 +47,5 @@ randomize_names () {
 #rename_new_images
 #process_new_images
 randomize_names
+
+#mogrify -path thumbs -resize 20% fulls/*

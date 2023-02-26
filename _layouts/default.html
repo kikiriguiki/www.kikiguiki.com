@@ -2,14 +2,9 @@
 <html>
 <head>
     	{% include header.html %}
-	{% if jekyll.environment == 'production' %}
-	{% include analytics.html %}
-	{% endif %}
 </head>
 <body>
-
     {{ content }}
-    
     {% include footer.html %}
 </body>
 </html>
